@@ -1,3 +1,20 @@
+# ABOUT THE LOCATION WIDGET:
+
+The location widget is an appropriate custom widget added to the app as it provides valuable information to the users. It enhances the app's functionality by displaying the user's current location as name of city and Geographical Coordinates of the city, which can be useful in various scenarios. For example, it can assist users in determining their geographical coordinates, tracking their movements, or providing location-specific data or services.
+
+### HOW TO USE THE WIDGET:
+
+To use the location widget,
+1. users simply need to have the app open on their device.
+2. then users should allow the app to know their location when prompted by the browser.
+
+Once the widget is added and displayed, it automatically fetches the user's current location using the browser's geolocation API. 
+
+The name of city, latitude and longitude coordinates are then displayed in the widget, allowing users to easily access and utilize their location information.
+
+The location widget can be especially beneficial for the user as it provides a functionality that requires knowledge of the user's whereabouts. It enhances user experience, provides convenience and context-aware features within the app.
+#
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
