@@ -11,7 +11,7 @@ To use the location widget,
 2. then users should allow the app to know their location when prompted by the browser.
 
 ### HOW THE LOCATION WIDGET WORKS:
-Once the widget is added and displayed, it automatically fetches the user's current location using the browser's geolocation API. The widget then fetches the city name by reverse geocoding using MapQuest Geocoding API.
+Once the app is allowed to know the user's location, the widget is added and displayed, it automatically fetches the user's current location using the browser's geolocation API. The widget then fetches the city name by reverse geocoding using MapQuest Geocoding API.
 
 Finally, the name of city, latitude and longitude coordinates are then displayed in the widget, allowing users to easily access and utilize their location information.
 
