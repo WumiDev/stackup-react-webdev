@@ -7,7 +7,7 @@ The location widget is an appropriate custom widget added to the planner app as 
 ### HOW TO USE THE LOCATION WIDGET:
 
 To use the location widget,
-1. users simply need to have the app open on their device.
+1. users simply need to have the planner app opened on their device.
 2. then users should allow the app to know their location when prompted by the browser.
 
 ### HOW THE LOCATION WIDGET WORKS:
